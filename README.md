@@ -10,8 +10,8 @@
   <a href="https://github.com/ryanboris/sort/blob/master/LICENSE">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" target="_blank" />
   </a>
-  <a href="https://twitter.com/neodynia">
-    <img alt="Twitter: neodynia" src="https://img.shields.io/twitter/follow/neodynia.svg?style=social" target="_blank" />
+  <a href="https://twitter.com/ryanboris84">
+    <img alt="Twitter: ryanboris84" src="https://img.shields.io/twitter/follow/neodynia.svg?style=social" target="_blank" />
   </a>
 </p>
 
