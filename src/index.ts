@@ -1,3 +1,7 @@
-console.log('hi');
-console.log('world');
-console.log('again');
+class Sorter {
+  collection: number[];
+
+  constructor(collection: number[]) {
+    this.collection = collection;
+  }
+}
