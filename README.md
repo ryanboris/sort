@@ -35,8 +35,8 @@ npm run start
 
 👤 **Ryan Boris**
 
-* Twitter: [@neodynia](https://twitter.com/neodynia)
-* Github: [@ryanboris](https://github.com/ryanboris)
+- Twitter: [@neodynia](https://twitter.com/ryanboris84)
+- Github: [@ryanboris](https://github.com/ryanboris)
 
 ## 🤝 Contributing
 
@@ -51,5 +51,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2019 [Ryan Boris](https://github.com/ryanboris).<br />
 This project is [ISC](https://github.com/ryanboris/sort/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
