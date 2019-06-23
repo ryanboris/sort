@@ -11,7 +11,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/ryanboris84">
-    <img alt="Twitter: ryanboris84" src="https://img.shields.io/twitter/follow/neodynia.svg?style=social" target="_blank" />
+    <img alt="Twitter: ryanboris84" src="https://img.shields.io/twitter/follow/ryanboris84.svg?style=social" target="_blank" />
   </a>
 </p>
 
