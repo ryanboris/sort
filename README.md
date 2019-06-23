@@ -35,7 +35,7 @@ npm run start
 
 👤 **Ryan Boris**
 
-- Twitter: [@neodynia](https://twitter.com/ryanboris84)
+- Twitter: [@ryanboris84](https://twitter.com/ryanboris84)
 - Github: [@ryanboris](https://github.com/ryanboris)
 
 ## 🤝 Contributing
